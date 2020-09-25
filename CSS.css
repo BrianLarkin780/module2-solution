@@ -28,7 +28,6 @@ h1 {
   overflow: none;
 }
 
-
 .content-name{
   overflow: none;
   text-align: center;
@@ -67,12 +66,11 @@ h1 {
   background-color: #FFFF00;
 }
 
-
 /********** Large devices only **********/
 @media (min-width: 992px) {
-  .col-lg-4 {
-  	float: left;
-    width: 33.33%;
+.col-lg-4 {
+float: left;
+width: 33.33%;
   }
 }
 /********** Medium devices only **********/
