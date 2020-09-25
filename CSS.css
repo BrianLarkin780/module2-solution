@@ -1,13 +1,11 @@
-
-
 * {
   box-sizing: border-box;
 }
 
 body{
-	margin: 0;
-	padding: 0;
-  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: "Ariel",  sans-serif;
 }
 
 .row{
@@ -27,6 +25,7 @@ h1 {
   width: 100%;
   overflow: none;
 }
+
 
 .content-name{
   overflow: none;
@@ -66,11 +65,12 @@ h1 {
   background-color: #FFFF00;
 }
 
+
 /********** Large devices only **********/
 @media (min-width: 992px) {
-.col-lg-4 {
-float: left;
-width: 33.33%;
+  .col-lg-4 {
+    float: left;
+    width: 33.33%;
   }
 }
 /********** Medium devices only **********/
@@ -93,7 +93,7 @@ width: 33.33%;
 
 @media (min-width: 0px) and (max-width: 767px) {
   .col-sm-12 {
-  	float: left;
+    float: left;
     width: 100%;
   }
   .content-name{
