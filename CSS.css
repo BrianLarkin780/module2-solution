@@ -29,13 +29,13 @@ section>h2 {
     padding-top: 10px;
 }
 section.Chicken>h2 {
-background-color: #99D4E7;
+background-color: #DAAD86;
 }
 section.Beef>h2 {
-background-color: #F6EE8A;
+background-color: #8D8741;
 }
 section.Sushi>h2 {
-background-color: #EE92F0;
+background-color: #659DBD;
 }
 section>p {
     padding: 40px 15px 15px 15px;
